@@ -513,7 +513,7 @@ if sawhorse == false then
         Ingredient("boards", 2),
         Ingredient("twigs", 2),
     }, 
-    TECH.SCIENCE_ONE, "wood_table_placer", {"FURNITURE"})
+    TECH.SCIENCE_ONE, "cabintable_placer", {"FURNITURE"})
     RegisterInventoryItemAtlas("images/inventoryimages/cabintable.xml", "cabintable.tex")
     
     AddRecipe2("cabinchair1", 
@@ -1020,7 +1020,7 @@ else
         Ingredient("boards", 2),
         Ingredient("twigs", 2),
     }, 
-    TECH.CARPENTRY_TWO, "wood_table_placer", {"FURNITURE"})
+    TECH.CARPENTRY_TWO, "cabintable_placer", {"FURNITURE"})
     RegisterInventoryItemAtlas("images/inventoryimages/cabintable.xml", "cabintable.tex")
     
     AddRecipe2("cabinchair1", 

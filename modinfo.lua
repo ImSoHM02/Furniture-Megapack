@@ -3,6 +3,9 @@ description =
 Character-inspired furniture sets.
 Original by Neckpunch!.
 
+-V1.1.4-
+Added the ability for tables to hold decor items. *KNOWN BUG* Sometimes decor will be misplaced on the table, picked it up and replacing it or once twice usually fixed it. Still looking into this.
+
 -V1.1.3-
 Fixed Cabin Table crashing the game when trying to place.
 
@@ -15,7 +18,7 @@ Added option for recipes to require the Sawhorse. (Off by Default)
 
 name                        = "Furniture Megapack"
 author                      = "Im So HM02 (Original by Neckpunch!)"
-version                     = "1.1.3"
+version                     = "1.1.4"
 forumthread                 = ""
 icon                        = "modicon.tex"
 icon_atlas                  = "modicon.xml"
